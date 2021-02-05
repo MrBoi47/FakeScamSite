@@ -1,0 +1,15 @@
+p.TopText
+{
+	color:#2A3132;
+	font-size:100px;
+	text-align:center;
+	vertical-align:top;
+	font-family:arial;
+}
+p.NormalText
+{
+	color:#505160;
+	font-size:40px;
+	text-align:center;
+	font-family:"Times New Roman" Times;
+}
